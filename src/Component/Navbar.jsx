@@ -20,7 +20,7 @@ const Navbar = () => {
 
         <div className='flex gap-4 justify-center items-center cursor-pointer'>
         <Home className='w-8 h-8 text-orange-400' />
-        <h1 className='text-4xl font-extrabold'>WDM <span className='text-orange-500' >STORE</span></h1>
+        <h1 className='text-4xl font-extrabold'>JHA <span className='text-orange-500' >STORE</span></h1>
       </div>
       </Link>
 
